@@ -7,7 +7,7 @@
 
 
   
-## Connect me
+## Connect with me
 
 <a href="https://telegram.me/JDosibaev">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
