@@ -1,7 +1,7 @@
 ### About me
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning React JS.
+- ✌🏻 I’m currently working on myself.
+- 💻 I’m currently learning React JS.
 - 💬 Ask me about Websocet and AJAX
 - 📫 How to reach me: Telegram - https://t.me/JDosibaev
 - ⚡ Fun fact: My birthday is on Student's Day
