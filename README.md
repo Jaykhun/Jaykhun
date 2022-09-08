@@ -18,7 +18,7 @@
 
 ## Programming languages
 
-<img  src="https://img.shields.io/badge/Javascript-F2BF26?style=for-the-badge&logo=javascript&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Javascript-F2BF26?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
 <img  src="https://img.shields.io/badge/Typescript-0074C2?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
 
 ## GitHub stats
