@@ -1,6 +1,6 @@
 ## About me
 
-- 💻 I’m currently learning React JS.
+- 💻 I’m currently learning React.
 - 💬 Ask me about Websocet and AJAX
 - ✌🏻 Looking forward to collaborating with other developers.
 - ⚡ Fun fact: My birthday is on the Student's Day
