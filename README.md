@@ -21,7 +21,7 @@
 <img  src="https://img.shields.io/badge/Javascript-F2BF26?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
 <img  src="https://img.shields.io/badge/Typescript-0074C2?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
 
-## GitHub stats
+## GitHub status
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaykhun&&show_icons=true&title_color=ffffff&icon_color=ffff&text_color=daf7dc&bg_color=1d469e">
 
