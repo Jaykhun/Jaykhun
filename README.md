@@ -1,7 +1,7 @@
 # 🏄‍♂️ Jaykhun Dosibaev
 **`Frontend Developer (React/Next JS)`**
 
-Hi, my name is Jaykhun Dosibaev. I'm a fourth-year student at TUIT (Tashkent University of Information Technologies) and my interest in programming started when I was still a student. I love learning new things and expanding my horizons. I'm confident that my programming skills and English knowledge will help me achieve great success in the future.
+I'm Jaykhun, 21 year old frontend developer. My primary skills include working with React, Redux, and RTK Query, as well as programming in TypeScript. I'm familiar with Next.js SSR/SSG/ISG and have some experience with Node.js, Mongoose, and Express.js. Additionally, I have an English proficiency level of B1 and hold a CEFR B1 certificate
 
 ---
 
