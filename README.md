@@ -20,10 +20,12 @@ Hi, my name is Jaykhun Dosibaev. I'm a fourth-year student at TUIT (Tashkent Uni
 <img align="left" alt="TypeScript" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="MaterialUi" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<!-- <img align="left" alt="MaterialUi" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> -->
 <img align="left" alt="Next" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<!-- <img align="left" alt="NodeJS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
-<img align="left" alt="Npm" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDb" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Express" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+<!-- <img align="left" alt="Npm" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"/> -->
 <img align="left" alt="Yarn" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg"/>
 <img align="left" alt="Git" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
