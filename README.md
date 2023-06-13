@@ -28,10 +28,10 @@ I'm Jaykhun, 21 year old frontend developer. My primary skills include working w
 <!-- <img align="left" alt="Npm" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"/> -->
 <img align="left" alt="Yarn" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/yarn/yarn-original.svg"/>
 <img align="left" alt="Git" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br/><br/>
 
+<img align="left" alt="GitHub" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Webpack" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="Vs code" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 <!-- <img align="left" alt="Webstrome" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" /> -->
