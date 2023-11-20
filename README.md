@@ -1,7 +1,7 @@
 # 🏄‍♂️ Jaykhun Dosibaev
 **`Frontend Developer (React/Next JS)`**
 
-I'm Jaykhun, 21 year old frontend developer. My primary skills include working with React, Redux, and RTK Query, as well as programming in TypeScript. I'm familiar with Next.js SSR/SSG/ISG and have some experience with Node.js, Mongoose, and Express.js. Additionally, I have an English proficiency level of B1 and hold a CEFR B1 certificate
+I'm Jaykhun, 22 year old frontend developer. My primary skills include working with React, Redux, and RTK Query, as well as programming in TypeScript. I'm familiar with Next.js SSR/SSG/ISG and have some experience with Node.js, Mongoose, and Express.js. Additionally, I have an English proficiency level of B1 and hold a CEFR B1 certificate
 
 ---
 
